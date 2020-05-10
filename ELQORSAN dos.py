@@ -37,7 +37,6 @@ os.system("clear")
 os.system("figlet MIZOELQORSAN")
 
 print
-
 print "Author   : Mizo matter"
 
 print "WhatsApp : +201556903301"
